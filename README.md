@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-summary](screens/order-summary)
 - [screen-signature](screens/signature)
 - [screen-suggest-a-feature](screens/suggest-a-feature)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
