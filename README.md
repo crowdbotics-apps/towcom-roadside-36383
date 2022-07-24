@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-maps](modules/maps)
 - [screen-rate-the-app](screens/rate-the-app)
 - [screen-user-subscribed](screens/user-subscribed)
+- [screen-user-address](screens/user-address)
 
 # Getting started: Frontend
 
