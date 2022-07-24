@@ -57,6 +57,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-maps](modules/maps)
 - [screen-rate-the-app](screens/rate-the-app)
+- [screen-user-subscribed](screens/user-subscribed)
 
 # Getting started: Frontend
 

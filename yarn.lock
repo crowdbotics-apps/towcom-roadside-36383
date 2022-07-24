@@ -1214,7 +1214,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/rate-the-app@file:./screens/rate-the-app/":
+"@screens/rate-the-app@file:./screens/rate-the-app":
+  version "1.0.0"
+
+"@screens/user-subscribed@file:./screens/user-subscribed/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
