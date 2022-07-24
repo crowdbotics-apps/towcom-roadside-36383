@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-user-subscribed](screens/user-subscribed)
 - [screen-user-address](screens/user-address)
 - [screen-terms-and-conditions](screens/terms-and-conditions)
+- [payments]()
 
 # Getting started: Frontend
 
