@@ -18,6 +18,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
+    "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@screens/user-address": "file:./screens/user-address/",
     "@screens/user-subscribed": "file:./screens/user-subscribed/",
     "axios": "^0.21.1",

@@ -1217,7 +1217,10 @@
 "@screens/rate-the-app@file:./screens/rate-the-app":
   version "1.0.0"
 
-"@screens/user-address@file:./screens/user-address/":
+"@screens/terms-and-conditions@file:./screens/terms-and-conditions/":
+  version "1.0.0"
+
+"@screens/user-address@file:./screens/user-address":
   version "1.0.0"
 
 "@screens/user-subscribed@file:./screens/user-subscribed":
