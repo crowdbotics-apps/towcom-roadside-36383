@@ -21,6 +21,7 @@
     "@screens/order-summary": "file:./screens/order-summary/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
+    "@screens/signature": "file:./screens/signature/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@screens/user-address": "file:./screens/user-address/",
     "@screens/user-subscribed": "file:./screens/user-subscribed/",
