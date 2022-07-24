@@ -1290,7 +1290,10 @@
 "@screens/rate-the-app@file:./screens/rate-the-app":
   version "1.0.0"
 
-"@screens/signature@file:./screens/signature/":
+"@screens/signature@file:./screens/signature":
+  version "1.0.0"
+
+"@screens/suggest-a-feature@file:./screens/suggest-a-feature/":
   version "1.0.0"
 
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":
