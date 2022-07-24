@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-terms-and-conditions](screens/terms-and-conditions)
 - [payments]()
 - [screen-payment-subscriptions](screens/payment-subscription)
+- [screen-order-summary](screens/order-summary)
 
 # Getting started: Frontend
 
